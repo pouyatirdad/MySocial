@@ -1,0 +1,11 @@
+.usernames{
+    height: 100%;
+    width: 29%;
+    float: right;
+    margin-right: 1%;
+}
+.data{
+    height: 100%;
+    width: 70%;
+    float: left;
+}
